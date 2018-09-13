@@ -1,0 +1,35 @@
+_repo: The-Pride-of-Jennico-Being-a-Memoir-of-Captain-Basil-Jennico_51238
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Castle, Egerton
+    birthdate: 1858
+    deathdate: 1920
+    gutenberg_agent_id: '4570'
+    url: http://www.gutenberg.org/2009/agents/4570
+  - agent_name: Castle, Agnes
+    aliases:
+    - Castle, Agnes Sweetman
+    - Sweetman, Agnes
+    deathdate: 1922
+    gutenberg_agent_id: '42676'
+    url: http://www.gutenberg.org/2009/agents/42676
+description: ''
+gutenberg_issued: '2016-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Household employees -- Fiction'
+- !lcsh 'Mistaken identity -- Fiction'
+- !lcsh 'Princesses -- Fiction'
+- GITenberg
+title: 'The Pride of Jennico: Being a Memoir of Captain Basil Jennico'
+url: http://www.gutenberg.org/ebooks/51238
