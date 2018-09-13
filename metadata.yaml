@@ -1,5 +1,8 @@
 _repo: The-Pride-of-Jennico-Being-a-Memoir-of-Captain-Basil-Jennico_51238
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51238-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Castle, Egerton
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '42676'
     url: http://www.gutenberg.org/2009/agents/42676
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51238#The-Pride-of-Jennico-Being-a-Memoir-of-Captain-Basil-Jennico
 gutenberg_issued: '2016-02-17'
 gutenberg_type: Text
 identifiers:
